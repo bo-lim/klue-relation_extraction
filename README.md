@@ -11,8 +11,8 @@
 :-:|:-:|:-:|:-:|:-:|
 [Github](https://github.com/idj7183)|[Github](https://github.com/kma7574)|[Github](https://github.com/jarammm)|[Github](https://github.com/mooncy0421)|[Github](https://github.com/bo-lim)|
 
-## Leaderboard
+## Leaderboard 
 ||Micro F1|AUPRC|Rank|
 |-|-|-|-|
 |Public|76.2626|82.5704|5th|
-|Private|75.7874|83.6859|1st|
+|Private|75.7874|83.6859|1st🥇|
